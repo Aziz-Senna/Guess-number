@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1790684001 source:c:\users\aziz\dropbox\helha\bloc 3\dev jv\jeu 2p\main.cpp
+	<iostream>
+	<limits>
+	<random>
+	<array>
+
+1790688496 source:c:\users\aziz\dropbox\helha\bloc 3\dev jv\jeu 2p\src\main.cpp
+	<iostream>
+	<limits>
+	<random>
+	<array>
+	"../include/Joueur.h"
+
+1790689060 c:\users\aziz\dropbox\helha\bloc 3\dev jv\jeu 2p\include\joueur.h
+	<limits>
+
